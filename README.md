@@ -1,3 +1,3 @@
-# 100-days-code
+# From 0 to expert in Object-oriented programming.
 
-1. [Blockly Maze Completion](0.1 Level10.md)
+A plethora of exercises to learn how to code in Python.
